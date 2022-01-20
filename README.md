@@ -1,0 +1,1 @@
+Chrome plugin removes Kinopisk's force subtitles
